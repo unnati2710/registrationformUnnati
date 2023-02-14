@@ -1,4 +1,5 @@
-#Registration Form
+#RegistrationForm
+
 <html lang="en">
 
 <head>
